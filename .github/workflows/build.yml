@@ -30,7 +30,7 @@ jobs:
         arch:
           - aarch64_generic
         sdk:
-          #- openwrt-22.03
+          - openwrt-22.03
           - SNAPSHOT
 
     steps:
